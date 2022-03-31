@@ -1,21 +1,30 @@
 # This built with scaffold.eth. The directories that you'll use are:
 
+# Live Demo
+
+https://lively-net.surge.sh/
+
 packages/vite-app/
 packages/hardhat/
 
 # Quick Start
 
-1. install your dependencies
-   yarn install
+# install your dependencies
 
-2. start a hardhat node
-   yarn chain
+yarn install
 
-3. build hardhat & external contracts types
-   yarn contracts:build
+# start a hardhat node
 
-4. deploy your hardhat contracts
-   yarn deploy
+yarn chain
 
-5. start react
-   yarn start
+# build hardhat & external contracts types
+
+yarn contracts:build
+
+# deploy your hardhat contracts
+
+yarn deploy
+
+# start react
+
+yarn start
